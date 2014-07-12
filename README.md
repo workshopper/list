@@ -3,15 +3,9 @@ NodeSchool Workshoppers
 
 A central catalog of existing, planned and requested workshoppers
 
-- Lessons
-  - [Existing](#existing)
-  - In progress
-  - Requested
-- Contributing
-
 ## Lessons
 
-<a name="#existing"></a>Find lessons on [nodeschool.io](http://nodeschool.io).
+Find lessons on [nodeschool.io](http://nodeschool.io).
 
 ### In progress
 
