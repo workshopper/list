@@ -21,7 +21,7 @@ You can add a suggestion to the list of [requested](https://github.com/nodeschoo
 
 Want to try writing a lesson? There are two modules which can be used to start your lesson:
 
-- [Workshopper](https://github.com/rvagg/workshopper) (and [how to write a workshopper](lin-clark.com/blog/2014/07/01/authoring-nodejs-workshopper-lessons))
+- [Workshopper](https://github.com/rvagg/workshopper) (and [how to write a workshopper](http://lin-clark.com/blog/2014/07/01/authoring-nodejs-workshopper-lessons))
 - [Adventure](https://github.com/substack/adventure)
 
 Curated by [@linclark](https://github.com/linclark)
