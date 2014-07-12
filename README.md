@@ -1,25 +1,33 @@
 NodeSchool Workshoppers
 =======================
 
-**A central catalog of existing, planned and requested workshoppers**
+A central catalog of existing, planned and requested workshoppers
 
-#### Looking for workshopper lessons?
+- Lessons
+  - [Existing](#existing)
+  - In progress
+  - Requested
+- Contributing
 
-Find lessons to take by [filtering the issue list](https://github.com/nodeschool/workshoppers/issues?labels=status%3Acompleted).
+## Lessons
 
-#### Suggesting a new lesson?
+<a name="#existing"></a>Find lessons on [nodeschool.io](http://nodeschool.io).
 
-Create a new issue explaining what you would like to see covered. If you're familiar with the topic, providing an outline of exercises is a great start, too.
+### In progress
 
-Once the suggestion is posted, someone will tag it with [status:requested](https://github.com/nodeschool/workshoppers/issues?labels=status%3Arequested) and anyone looking for workshoppers to work on will be able to find it.
+Find [in progress](https://github.com/nodeschool/workshoppers/issues?labels=status%3Ain+progress) lessons, or post a new issue to let us know if you're working on one.
 
-#### Working on a lesson?
+### Requested
 
-Check the list to see whether there's an existing issue for the topic. If there is no existing issue, create a new one. Then post the link to your repo and someone will add the [status:in progress](https://github.com/nodeschool/workshoppers/issues?labels=status%3Ain+progress) tag to the issue. Make sure to post again once it is in a usable state.
+Is there something you want to learn that isn't covered by these lessons? Do you have a project that needs a workshopper? 
 
-## Tools for authoring lessons
+You can add a suggestion to the list of [requested](https://github.com/nodeschool/workshoppers/issues?labels=status%3Arequested) lessons.
 
-- [Workshopper](https://github.com/rvagg/workshopper)
+## Contributing
+
+Want to try writing a lesson? There are two modules which can be used to start your lesson:
+
+- [Workshopper](https://github.com/rvagg/workshopper) (and [how to write a workshopper](lin-clark.com/blog/2014/07/01/authoring-nodejs-workshopper-lessons))
 - [Adventure](https://github.com/substack/adventure)
 
 Curated by [@linclark](https://github.com/linclark)
