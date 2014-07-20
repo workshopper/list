@@ -7,6 +7,10 @@ A central catalog of existing, planned and requested workshoppers
 
 Find lessons on [nodeschool.io](http://nodeschool.io).
 
+Addtional lessons:
+
+- [Security Adventure](https://github.com/toolness/security-adventure)
+
 ### In progress
 
 Find [in progress](https://github.com/nodeschool/workshoppers/issues?labels=status%3Ain+progress) lessons, or post a new issue to let us know if you're working on one.
