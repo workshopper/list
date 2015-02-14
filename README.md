@@ -24,4 +24,7 @@ Want to try writing a lesson? There are two modules which can be used to start y
 - [Workshopper](https://github.com/rvagg/workshopper) (and [how to write a workshopper](http://lin-clark.com/blog/2014/07/01/authoring-nodejs-workshopper-lessons))
 - [Adventure](https://github.com/substack/adventure)
 
+### Licensing
+Both `workshopper` and `adventure` use the permissive MIT/X license so there's no rules about how you license *your* lesson. If you'd like to add a license to your lesson describing how other people can use it but aren't sure which to pick, check out http://choosealicense.com/
+
 Curated by [@linclark](https://github.com/linclark)
